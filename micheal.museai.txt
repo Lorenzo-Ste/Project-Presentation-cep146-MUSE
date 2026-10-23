@@ -1,2 +1,7 @@
-Muse ai is an ai agent that does extended tasks rather than a basic back and forth texts like chat gpt.it is used to help people use AI to create, learn and work well. It can be use to open browsers, fill out forms, book flights. It can be used for long time goals such as maintaining a healthy schedule, constant track on events. The costs are free(100 mil tokens), $20 per month(500 mil) and $100 per month(3 billion). when learning coding, it can help understand problems, practice coding and finish assignments. It helps with projects,stories,designs,make images, complete ideas and more. It has its own virtual computer. It can connect to other apps, it can applies privacy and security controls
-
+Muse ai is an ai agent that does extended tasks rather than a basic back and forth texts like chat gpt.
+it is used to help people use AI to create, learn and work well. 
+It can be use to open browsers, fill out forms, book flights. 
+It can be used for long time goals such as maintaining a healthy schedule, constant track on events. The costs are free(100 mil tokens), $20 per month(500 mil) and $100 per month(3 billion). 
+When learning coding, it can help understand problems, practice coding and finish assignments. 
+It helps with projects,stories,designs,make images, complete ideas and more. 
+It has its own virtual computer. It can connect to other apps, it can applies privacy and security controls
