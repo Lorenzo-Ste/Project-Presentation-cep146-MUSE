@@ -2,7 +2,29 @@
 ## Introduction / Main Idea
 **draft**
 
-Look at how Muse AI and the big role AI is starting to have within software development 
+Look at how Muse AI and the big role AI is starting to have within software development.
+
+Ai is becomming more common in programming because it can help developers with task like writing code, debugging errors, explaining code, generating test,
+and completing repitive program task. So instead of wiping out programmers, AI could be used as a helpful tool that can work alongside developers.
+
+Big thing I found out about my research: AI can make software development way faster. One of the most potent reasons developers are using AI is because of its productivity.
+
+A Microsoft Research experiment had studied developers using Github Copilot which is an AI programming assistant. The developers who had access to the AI completed their programming
+task at a rate of abour 55.8% faster than the developers who did not have it. This goes to show that AI has the potential to save developers huge amounts of time,
+especially when working on common or repetitve task.
+
+Ai canm be used through software developmentment: AI is not only used for generated code, developers can use AI for many parts of the software development process, including:
+1. Creating tests
+2. Helping with repitive development task
+3. Suggesting solutions to programming problems
+4. Debugging and finding possible erorrs
+5. Explaining not familiar code
+6. Generating code
+
+Recent AI research about AI-assisted development shows that developers see beneifits when completing routine task. Though they still have to spend time checking the AI's output and
+what its producing.
+
+Muse Ai was a beautiful topic to speak about because its one of the representations of the larger movement towards AI into technology nad software related workflows/
 
 
 
@@ -24,5 +46,14 @@ Look at how Muse AI and the big role AI is starting to have within software deve
 
 
 
+
+
+
+
+### sources: 
 
 https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/
+
+https://www.microsoft.com/en-us/research/publication/the-impact-of-ai-on-developer-productivity-evidence-from-github-copilot/
+
+https://ieeexplore.ieee.org/document/11429684
