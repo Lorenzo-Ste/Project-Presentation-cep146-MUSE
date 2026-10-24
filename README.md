@@ -3,3 +3,4 @@
 
 
 *The roles for this project are as follows: Lorenzo: Introduction, Zi Lan Lin: The negatives of Muse Ai, Kyle Xiao: The Positives of Muse Ai, Hyeonjin Kin: The conclusion, Micheal Dosumu: the explanation of Muse AI*
+### https://youtu.be/pk1Lsj41ROA Muse AI VIDEO
